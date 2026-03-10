@@ -1,0 +1,50 @@
+A {
+    color: #324395;
+    text-decoration: none;
+}
+A:hover {
+    color: #ffffff;
+    background-color: #324395;
+    text-decoration: none;
+}
+A.plain:hover {
+    color:#ffffff;
+    background-color:#ffffff;
+    text-decoration:none;
+}
+INPUT[type=button] {
+    font-family:arial,sans-serif;
+    font-size:8pt;
+    background: #324395;
+    border-bottom: 1px solid #afafaf;
+    border-right: 1px solid #afafaf;
+    border-left: 1px solid #afafaf;
+    border-top:1px solid #afafaf;
+    color:#FFFFFF;
+    height:19px;
+    text-decoration:none;
+}
+INPUT[type=submit] {
+    font-family:arial,sans-serif;
+    font-size:8pt;
+    background: #324395;
+    border-bottom: 1px solid #afafaf;
+    border-right: 1px solid #afafaf;
+    border-left: 1px solid #afafaf;
+    border-top:1px solid #afafaf;
+    color:#FFFFFF;
+    height:19px;
+    text-decoration:none;
+}
+TEXTAREA {
+    font-family:arial,sans-serif;
+    font-size:8pt;
+}
+SELECT {
+    font-family:arial,sans-serif;
+    font-size:8pt;
+}
+INPUT {
+    font-family:arial,sans-serif;
+    font-size:8pt;
+}
